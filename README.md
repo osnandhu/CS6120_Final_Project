@@ -1,5 +1,5 @@
 # CS6120_Final_Project
-PLEASE SEE README.txt.
+PLEASE SEE README.txt which is formatted properly.
 This contains the final project for the course CS6120
 CS6120: Final Project
 We would like to thank Professor Lu Wang for encouraging us to take up this topic and present it as a final project.
